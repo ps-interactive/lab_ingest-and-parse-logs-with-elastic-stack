@@ -1,0 +1,1 @@
+# lab_ingest-and-parse-logs-with-elastic-stack
